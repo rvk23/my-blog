@@ -1,18 +1,18 @@
 ## You should change each of the following fields
 ## to customize your blog
 
-title: Stat 386 Blog
-description: "This description of the blog will appear on the 'About' page." 
-author: Your name
-author_description: "This description of who you are will appear on the 'About' page." 
+title: EDA basics in Data Science
+description: "Learning what EDA is, and how to get starte using it." 
+author: Rylan Van Komen
+author_description: "BYU Student learning about Data Science" 
 
-url: https://esnt.github.io ## change this to https://yourusername.github.io
-baseurl: /another-stat386-theme ## change this to the name of your blog repository
+url: https://rvk23.github.io
+baseurl: https://github.com/rvk23/my-blog 
 header_image: /assets/img/headerimg.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
-    github:  ## required
+    github:  rvk23
     twitter: 
     facebook: 
     email: 
