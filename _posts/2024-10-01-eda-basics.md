@@ -13,7 +13,7 @@ date: 2024-10-01
 
 In this post I will talk about the basics of EDA. EDA stands for Exploratory Data Analysis. EDA is a very essential process in Data Science. EDA is where you really look at the data, and try and figure out what you want to do with it. EDA is a very broad analyzation process where the data scientist can get very creative. This is where I feel is the most fun part of the data science process. 
 
-![Alt text](/blob/main/Screenshot%202024-10-01%20140134.png)
+![Alt text](/blob/main/Screenshot 2024-10-01 140134.png)
 
 
 ### EDA PROCESS
@@ -27,13 +27,13 @@ EDA has its own process that will be good to follow. Some of the things in that 
 - Numerical Analysis
 - Derived Metrics
 
-![Alt text](/blob/main/Screenshot%202024-10-01%20141035.png)
+![Alt text](//Screenshot 2024-10-01 141035.png)
 
 ### DATA CLEANING
 
 Data cleaning is a very important step in EDA. Cleaning is really where you are able to read the correct data that you are trying to work with. If data is all of over the place it can be hard to work with. This helps speed up the whole process, and helps other not just yourself read it better. 
 
-![Alt text](/blob/main/Screenshot%202024-10-01%20141700.png)
+![Alt text](/Screenshot2024-10-01141700.png)
 
 -How to handle missing values
 
