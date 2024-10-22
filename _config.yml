@@ -6,9 +6,9 @@ description: "Learning what EDA is, and how to get starte using it."
 author: Rylan Van Komen
 author_description: "BYU Student learning about Data Science" 
 
-url: https://rvk23.github.io
-baseurl: https://github.com/rvk23/my-blog 
-header_image: /assets/img/headerimg.jpg ## change your header image if you want
+url: "https://rvk23.github.io/my-blog"
+baseurl: "/my-blog"
+header_image: ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
@@ -26,7 +26,7 @@ social:
 ### Advanced Settings (don't change below unless you know what you are doing)
 
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: /:year/:month/:day/:title/
 
 # Header Option
 # header: large
