@@ -16,6 +16,9 @@ In this post I will talk about the basics of EDA. EDA stands for Exploratory Dat
 ![Alt text](/blob/main/Screenshot 2024-10-01 140134.png)
 
 
+"https://github.com/rvk23/my-blog/blob/main/Screenshot%202024-10-01%20135311.png"
+
+
 ### EDA PROCESS
 
 
@@ -45,6 +48,8 @@ Data cleaning is a very important step in EDA. Cleaning is really where you are 
 These are all different methods you can use and explore with missing values. You can try using all different methods and see which one is best for the data you are working with. 
 
 ![Alt text](/blob/main/Screenshot%202024-10-01%20142231.png)
+
+
 
 ### DATA SOURCING
 
