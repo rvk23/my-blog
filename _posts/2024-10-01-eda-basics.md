@@ -7,12 +7,12 @@ image: ""  # Replace with a real image path
 date: 2024-10-01
 ---
 
-![new one](/assets/img/Screenshot1.png)
+![new one](/my-blog/assets/img/Screenshot1.png)
 
 
 In this post I will talk about the basics of EDA. EDA stands for Exploratory Data Analysis. EDA is a very essential process in Data Science. EDA is where you really look at the data, and try and figure out what you want to do with it. EDA is a very broad analyzation process where the data scientist can get very creative. This is where I feel is the most fun part of the data science process. 
 
-![New two](/assets/img/Screenshot2.png)
+![New two](/my-blog/assets/img/Screenshot2.png)
 
 
 ### EDA PROCESS
@@ -26,13 +26,13 @@ EDA has its own process that will be good to follow. Some of the things in that 
 - Numerical Analysis
 - Derived Metrics
 
-![stuff 3](/assets/img/Screenshot3.png)
+![stuff 3](/my-blog/assets/img/Screenshot3.png)
 
 ### DATA CLEANING
 
 Data cleaning is a very important step in EDA. Cleaning is really where you are able to read the correct data that you are trying to work with. If data is all of over the place it can be hard to work with. This helps speed up the whole process, and helps other not just yourself read it better. 
 
-![Data cleaning](/assets/img/Screenshot4.png)
+![Data cleaning](/my-blog/assets/img/Screenshot4.png)
 
 -How to handle missing values
 - Delete Rows/Columns
@@ -42,7 +42,7 @@ Data cleaning is a very important step in EDA. Cleaning is really where you are 
 
 These are all different methods you can use and explore with missing values. You can try using all different methods and see which one is best for the data you are working with. 
 
-![More data cleaning](my-blog/assets/img/Screenshot5.png)
+![More data cleaning](/my-blog/assets/img/Screenshot5.png)
 
 
 
