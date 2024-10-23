@@ -58,13 +58,13 @@ If you are working with public. data you will probably use skills like web scrap
 
 Private Data is when you are working with data in a company that is not to be leaked. This for example could be a bank you are doing work for. If you are a company that gets clients, then you will likely need to get access for data. This is important to know what data you need access to and first get access to all you need so you can properly start the data science process. 
 
-![Private Data](my-blog/assets/img/Screenshot6.png)
+![Private Data](/assets/img/Screenshot6.png)
 
 ### DATA VISUALIZATION
 
 This is the final part where you want to look at the data. Obviously you can make as many as you want and determine what is best to read, and look at the data. Depending on who will be looking at the data, and how it will be presented will be a big factor as well with what you want to do with it. 
 
-![Data visual](/my-blog/assets/img/Screenshot7.png)
+![Data visual](/assets/img/Screenshot7.png)
 
 
 
