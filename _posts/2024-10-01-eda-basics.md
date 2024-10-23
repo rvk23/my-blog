@@ -7,6 +7,8 @@ image: ""  # Replace with a real image path
 date: 2024-10-01
 ---
 
+![EDA proccess](assets/img/Screenshot%202024-10-01%20135311.png)
+
 
 In this post I will talk about the basics of EDA. EDA stands for Exploratory Data Analysis. EDA is a very essential process in Data Science. EDA is where you really look at the data, and try and figure out what you want to do with it. EDA is a very broad analyzation process where the data scientist can get very creative. This is where I feel is the most fun part of the data science process. 
 
