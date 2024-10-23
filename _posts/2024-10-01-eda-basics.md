@@ -35,11 +35,10 @@ Data cleaning is a very important step in EDA. Cleaning is really where you are 
 ![Data cleaning](assets/img/Screenshot%202024-10-01%20141700.png)
 
 -How to handle missing values
-
-	- Delete Rows/Columns
-	- Replacing with mean/median/mode
-	- Algorithm Imputation
-	- Predicting the missing values
+- Delete Rows/Columns
+- Replacing with mean/median/mode
+- Algorithm Imputation
+- Predicting the missing values
 
 These are all different methods you can use and explore with missing values. You can try using all different methods and see which one is best for the data you are working with. 
 
