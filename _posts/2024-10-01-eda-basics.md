@@ -7,9 +7,13 @@ image: "/blob/main/Screenshot 2024-10-01 135311.png"  # Replace with a real imag
 date: 2024-10-01
 ---
 
-/main/Screenshot 2024-10-01 140134.png
+![](/assets/img/Screenshot 2024-10-01 135311.png)
 
+![](/main/assets/img/Screenshot 2024-10-01 135311.png)
 
+![](/blob/main/assets/img/Screenshot 2024-10-01 135311.png)
+
+![](/my-blog/blob/main/assets/img/Screenshot 2024-10-01 135311.png)
 
 In this post I will talk about the basics of EDA. EDA stands for Exploratory Data Analysis. EDA is a very essential process in Data Science. EDA is where you really look at the data, and try and figure out what you want to do with it. EDA is a very broad analyzation process where the data scientist can get very creative. This is where I feel is the most fun part of the data science process. 
 
