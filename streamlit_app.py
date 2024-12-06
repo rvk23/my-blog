@@ -275,7 +275,7 @@ st.write("""
 
 
 # Quiz Section
-st.write("### Quiz: Who has the best home win percentage over the last 7 years?")
+st.write("### Quiz: Who has the best home win percentage vs. road win percentage difference over the last 7 years?")
 
 # Options for the quiz
 options = ["Denver Nuggets", "Utah Jazz", "Golden State Warriors", "Boston Celtics"]
