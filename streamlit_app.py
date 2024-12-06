@@ -289,3 +289,14 @@ if st.button("Submit Answer"):
         st.success("That's right! The Denver Nuggets had the best home win percentage over the last 7 years!")
     else:
         st.error("Wrong, try again.")
+
+
+# Additional Information Section
+with st.expander("Click to learn more about why the Denver Nuggets have a better home win percentage than every other team"):
+    st.write("""
+    I wanted to find out what the average difference was between the home and road games. I found out that there was a difference of **0.124**. 
+    Which is crazy. That means 12.4% of the time the team does better at home than the road each year! This was super cool to look at.
+
+    Something that I found interesting is the Denver Nuggets were **24.1% better at home**. This was the greatest difference. Then I looked it up, 
+    and Denver is the team that plays at the highest elevation. So road teams probably have a harder time playing there.
+    """)
