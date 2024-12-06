@@ -272,3 +272,20 @@ st.write("""
 - Use the sidebar to switch between seasons and compare team performance.
 - Blue bars represent **Home Win Percentage**, while the orange line shows **Road Win Percentage**.
 """)
+
+
+# Quiz Section
+st.write("### Quiz: Who has the best home win percentage over the last 7 years?")
+
+# Options for the quiz
+options = ["Denver Nuggets", "Utah Jazz", "Golden State Warriors", "Boston Celtics"]
+
+# Create a select box for the user to choose an answer
+user_choice = st.selectbox("Choose the correct team:", options)
+
+# Create a button to submit the answer
+if st.button("Submit Answer"):
+    if user_choice == "Denver Nuggets":
+        st.success("That's right! The Denver Nuggets had the best home win percentage over the last 7 years!")
+    else:
+        st.error("Wrong, try again.")
